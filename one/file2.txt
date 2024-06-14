@@ -1,2 +1,3 @@
 this is my file2 for git course
 hello
+2025 footer note added
