@@ -7,3 +7,4 @@ fifth bug fixed.
 
 pinkmode fix-one more bug fixed.
 another fix message for pink mode
+another fix massage for purple mode
