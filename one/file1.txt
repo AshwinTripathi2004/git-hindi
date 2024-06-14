@@ -1,2 +1,3 @@
 this is my file1 for git course
 hello
+Another marketing message section added to file one.
